@@ -154,7 +154,7 @@ any questions or inquiries.
 
 ### 6.1. Folder Containing all the files: https://drive.google.com/drive/folders/1rkvdO8PLOo_z21dfl-LNFYRi5jvDapQy?usp=sharing
 
-### 6.2. Adobe Xd Design: <https://drive.google.com/file/d/1cffHre8BdOT27yMue7kyX83MvPd0X0n0/view?usp=sharing>
+### 6.2. Adobe Xd Design: https://drive.google.com/file/d/1cffHre8BdOT27yMue7kyX83MvPd0X0n0/view?usp=sharing
 
 ### 6.3. Flutter APK: https://drive.google.com/file/d/1Fxu7L83m1qDUM84fvsrQN3iwEjaxeRLEy/view?usp=sharing
 
