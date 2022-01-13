@@ -1,0 +1,43 @@
+class AppStrings {
+  static const String noRouteFound = 'No Route Found';
+  static const String arabicAppName = 'InstaMovie';
+  static const String englishAppName = 'InstaMovie';
+  static const String apiKey = '';
+  static const String noConnection = 'You\'re not connected to the internet';
+  static const String baseUrl = 'https://api.themoviedb.org/3/discover/movie';
+  static const String dontLeaveEmpty = 'Please Don\'t leave the fields empty';
+  static const String welcomeBack = 'Welcome Back!';
+  static const String email = 'Email Address';
+  static const String emailExample = 'example@example.example';
+  static const String password = 'Password';
+  static const String passwordExample = '●●●●●●●●●●●●●●●';
+  static const String login = 'Login';
+  static const String dontHaveAnAccount = 'Dont have an account? ';
+  static const String registerNow = 'Register now!';
+  static const String haveAnAccount = 'Have an account? ';
+  static const String loginNow = 'Login now!';
+  static const String createAccount = 'CreateAccount';
+  static const String register = 'Register';
+  static const String confirmPassword = 'Confirm Password';
+  static const String myMovies = 'My Movies';
+  static const String seeAll = 'See All';
+  static const String allMovies = 'All Movies';
+  static const String dontHaveMovies = 'You Don\'t Have Any Movies Yet';
+  static const String addOne = 'Add One';
+  static const String addMovie = 'Add Movie';
+  static const String save = 'Save';
+  static const String poster = 'Poster';
+  static const String posterExample = 'example.jpg';
+  static const String date = 'Date';
+  static const String dateExample = '2022-01-12';
+  static const String title = 'Title';
+  static const String titleExample = 'The Amazing....';
+  static const String overview = 'Overview';
+  static const String addToMyMovies = 'Add To My Movies';
+  static const String overviewExample = 'This movie is about...';
+  static const String choosePoster = 'Choose Poster';
+  static const String loadingMovies = 'Loading Movies...';
+  static const String fetchedAll = 'You have fetched all of the content';
+  static const String imagesUrl =
+      'http://image.tmdb.org/t/p/w185_and_h278_bestv2';
+}
