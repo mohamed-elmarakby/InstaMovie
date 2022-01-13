@@ -50,39 +50,52 @@ the keyboard and it should start automatically normally.
 
 ### 2.4. Layers Communications: each layer has to communicate only to the next layer through one entry point, so the Presentation Layers talks only with the Business Logic Layer, and the Business Logic Layer communicates with the Data Layer through the Repositories/Interfaces, and the Repositories/Interfaces communicate with the webservices to do the mission needed from them, that data separation is in order to guarantee that each and every layer has his own missions and tasks and any change in another layer won’t affect it, makes the code easier to understand, and to maintenance it.
 
-## 3. Flutter Screenshots:
+## 3. Finally
 
-### 3.1. Splash Screen
+I was trying to make the react native application as close to the user interface
+design, and clean code as much as I could with the help of Google,
+Stackoverflow, react native docs, and YouTube react native channels. I’m very
+proud of myself for getting that output having zero experience in react native.
+Thanks for reading the documentation, and feel free to contact me anytime for
+any questions or inquiries.
+
+## 4. Links of the files
+
+### 4.1. Folder Containing all the files: https://drive.google.com/drive/folders/1rkvdO8PLOo_z21dfl-LNFYRi5jvDapQy?usp=sharing
+
+## 5. Flutter Screenshots:
+
+### 5.1. Splash Screen
 
 ![Logo Description automatically
 generated](media/78cf79fca50fb64b18826f360e92c8b2.png)
 
-### 3.2. Login Screen
+### 5.2. Login Screen
 
 ![Graphical user interface, text Description automatically
 generated](media/ca20ee8a9775d365f9777ae4b34fe65b.png)
 
-### 3.3. Register Screen
+### 5.3. Register Screen
 
 ![Graphical user interface Description automatically
 generated](media/d536dd085c52a3fa8c7e1b66cb82222d.png)
 
-### 3.4. Home without My Movies Screen
+### 5.4. Home without My Movies Screen
 
 ![Graphical user interface, website Description automatically
 generated](media/f87e75043f7db74b2f0d38939a4e9c98.png)
 
-### 3.5. Loading Indicator of Pagination
+### 5.5. Loading Indicator of Pagination
 
 ![Graphical user interface, website Description automatically
 generated](media/c1e51afda75b9306b246763aca19e7eb.png)
 
-### 3.6. Movie Details Screen
+### 5.6. Movie Details Screen
 
 ![Graphical user interface, website Description automatically
 generated](media/07eca46b855ee486855a8378ce9f1db0.png)
 
-### 3.7. Add Movie Screen
+### 5.7. Add Movie Screen
 
 ![Graphical user interface, text Description automatically
 generated](media/eccc9495d8548286108537c4ebcd1de0.png)
@@ -93,39 +106,39 @@ confidence](media/96f7bc55dd166f1c840494a2c4d10275.png)
 ![A screenshot of a building Description automatically generated with low
 confidence](media/2115eb343b3689aa6c25f58bb05f928f.png)
 
-### 3.8. My Movies Screen
+### 5.8. My Movies Screen
 
 ![Graphical user interface, website Description automatically
 generated](media/2dea615b81089c8cf1cc6b8026eeb287.png)
 
-### 3.9. Home with My Movies Screen
+### 5.9. Home with My Movies Screen
 
 ![A screenshot of a building Description automatically generated with medium
 confidence](media/e4e37e7ccc1668f685d8ff31b858607e.png)
 
-## 4. React Native Screenshots:
+## 6. React Native Screenshots:
 
-### 4.1. Login Screen
+### 6.1. Login Screen
 
 ![](media/287129f92e0171cad0fdefaf1a22eb37.png)
 
-### 4.2. Register Screen
+### 6.2. Register Screen
 
 ![](media/76171ee1714158f8e75f294c34e431d4.png)
 
-### 4.3. Home without My Movies Screen
+### 6.3. Home without My Movies Screen
 
 ![](media/deda7842d1dd0409d9d2987014c03f44.png)
 
-### 4.4. Loading Indicator of Pagination
+### 6.4. Loading Indicator of Pagination
 
 ![](media/d61ee0536a34ce8da2df1e9e99969995.png)
 
-### 4.5. Movie Details Screen
+### 6.5. Movie Details Screen
 
 ![](media/811caf780d853cfac207b5f818393d79.png)
 
-### 4.6. Add Movie Screen
+### 6.6. Add Movie Screen
 
 ![](media/e9756a3e4a6b8bc68f4d382eba411cce.png)
 
@@ -133,31 +146,10 @@ confidence](media/e4e37e7ccc1668f685d8ff31b858607e.png)
 
 ![](media/d7e3a28e4dd7117be6c8506d0ea1c448.png)
 
-### 4.7. My Movies Screen
+### 6.7. My Movies Screen
 
 ![](media/5d96d0629b26288fa57c66dca68692da.png)
 
-### 4.8. Home with My Movies Screen
+### 6.8. Home with My Movies Screen
 
 ![](media/2aadb70f6768091ea77cd23f7e15cb69.png)
-
-## 5. Finally
-
-I was trying to make the react native application as close to the user interface
-design, and clean code as much as I could with the help of Google,
-Stackoverflow, react native docs, and YouTube react native channels. I’m very
-proud of myself for getting that output having zero experience in react native.
-Thanks for reading the documentation, and feel free to contact me anytime for
-any questions or inquiries.
-
-## 6. Links of the files
-
-### 6.1. Folder Containing all the files: https://drive.google.com/drive/folders/1rkvdO8PLOo_z21dfl-LNFYRi5jvDapQy?usp=sharing
-
-### 6.2. Adobe Xd Design: https://drive.google.com/file/d/1cffHre8BdOT27yMue7kyX83MvPd0X0n0/view?usp=sharing
-
-### 6.3. Flutter APK: https://drive.google.com/file/d/1Fxu7L83m1qDUM84fvsrQN3iwEjaxeRLEy/view?usp=sharing
-
-### 6.4. React Native APK: https://drive.google.com/file/d/1XWgEx8ILZ9QGQkLsblDArqEBwhW02jV7/view?usp=sharing
-
-### 6.5. GitHub Repo: https://github.com/mohamed-elmarakby/InstaMovie
