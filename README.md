@@ -39,19 +39,26 @@ in the user interface design I have thought through the documentation of the tas
 ## 2. Code Design Phase:
 I don’t have any experience in React Native so in this phase I started thinking with Flutter and decided that I would write the application on Flutter so that I could vision it more and search for the components needed in react native or interfaces, classes, and so on. In this phase I saw the model of the API’s response and built the model on it and started working on the code as the following.
 
-### 2.1. Presentation Layer: which has the screens, common widgets, and resources managers such as colors manager, assets manager, strings manager, etc.
+### 2.1. Presentation Layer:
+which has the screens, common widgets, and resources managers such as colors manager, assets manager, strings manager, etc.
 
-### 2.2. Business Logic Layer: which has the bloc states, and cubits of the application, in our case it’s going to hold the cubit and states of the movies
+### 2.2. Business Logic Layer:
+which has the bloc states, and cubits of the application, in our case it’s going to hold the cubit and states of the movies
 
-### 2.3. Data Layer: which has three things
+### 2.3. Data Layer:
+which has three things
 
-### 2.3.1. Models Folder: which has the dynamic data model coming from the APIs
+#### 2.3.1. Models Folder:
+which has the dynamic data model coming from the APIs
 
-### 2.3.2. Repositories Folder: which contains the Interface of the webservices
+#### 2.3.2. Repositories Folder:
+which contains the Interface of the webservices
 
-### 2.3.3. WebServices Folder: which has the webservices of our APIs
+#### 2.3.3. WebServices Folder:
+which has the webservices of our APIs
 
-### 2.4. Layers Communications: each layer has to communicate only to the next layer through one entry point, so the Presentation Layers talks only with the Business Logic Layer, and the Business Logic Layer communicates with the Data Layer through the Repositories/Interfaces, and the Repositories/Interfaces communicate with the webservices to do the mission needed from them, that data separation is in order to guarantee that each and every layer has his own missions and tasks and any change in another layer won’t affect it, makes the code easier to understand, and to maintenance it.
+### 2.4. Layers Communications:
+each layer has to communicate only to the next layer through one entry point, so the Presentation Layers talks only with the Business Logic Layer, and the Business Logic Layer communicates with the Data Layer through the Repositories/Interfaces, and the Repositories/Interfaces communicate with the webservices to do the mission needed from them, that data separation is in order to guarantee that each and every layer has his own missions and tasks and any change in another layer won’t affect it, makes the code easier to understand, and to maintenance it.
 
 ## 3. Finally
 
@@ -64,7 +71,8 @@ any questions or inquiries.
 
 ## 4. Links of the files
 
-### 4.1. Folder Containing all the files: https://drive.google.com/drive/folders/1rkvdO8PLOo_z21dfl-LNFYRi5jvDapQy?usp=sharing
+### 4.1. Folder Containing all the files:
+https://drive.google.com/drive/folders/1rkvdO8PLOo_z21dfl-LNFYRi5jvDapQy?usp=sharing
 
 ## 5. Flutter Screenshots:
 
