@@ -28,13 +28,16 @@ the keyboard and it should start automatically normally.
 
 ## Building Process:
 
-### 1. Design Phase: this is the first phase that contains the design process of the application’s logo and user interface made using Adobe Xd. I decided to go with the colors black and light orange (\#FFDE59) as my main color themes, also (\#DE2C2C) and (\#767676) for some of the texts, and for the font I chose (League Spartan) font; because they’re relaxing to the eyes and give this cool dark theme.
+### 1. Design Phase:
+this is the first phase that contains the design process of the application’s logo and user interface made using Adobe Xd. I decided to go with the colors black and light orange (\#FFDE59) as my main color themes, also (\#DE2C2C) and (\#767676) for some of the texts, and for the font I chose (League Spartan) font; because they’re relaxing to the eyes and give this cool dark theme.
 
 ### 1.1 Logo: ![](media/cc848a6b5a327620041481716997fc69.png)
 
-### 1.2 User Interface: in the user interface design I have thought through the documentation of the task that there’s a user that can have his own movies, so I created a registration and login screens so that the user can either create a new account or login with his registered one but I haven’t made their functionality work they’re just dummy screens to show the idea that we could possibly make this functionality later on when provided the authentication APIS. The Adobe Xd UI file is linked in the GitHub Repo, it’d be a great honor for me if You take a look at it.
+### 1.2 User Interface:
+in the user interface design I have thought through the documentation of the task that there’s a user that can have his own movies, so I created a registration and login screens so that the user can either create a new account or login with his registered one but I haven’t made their functionality work they’re just dummy screens to show the idea that we could possibly make this functionality later on when provided the authentication APIS. The Adobe Xd UI file is linked in the GitHub Repo, it’d be a great honor for me if You take a look at it.
 
-## 2. Code Design Phase: I don’t have any experience in React Native so in this phase I started thinking with Flutter and decided that I would write the application on Flutter so that I could vision it more and search for the components needed in react native or interfaces, classes, and so on. In this phase I saw the model of the API’s response and built the model on it and started working on the code as the following.
+## 2. Code Design Phase:
+I don’t have any experience in React Native so in this phase I started thinking with Flutter and decided that I would write the application on Flutter so that I could vision it more and search for the components needed in react native or interfaces, classes, and so on. In this phase I saw the model of the API’s response and built the model on it and started working on the code as the following.
 
 ### 2.1. Presentation Layer: which has the screens, common widgets, and resources managers such as colors manager, assets manager, strings manager, etc.
 
